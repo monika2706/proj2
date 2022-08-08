@@ -3,6 +3,12 @@ this is repo for the project
 create ur own branch
 i created a new named monika
 did my work in my branch
+<<<<<<< HEAD
 this is master
 after working of with braches
 `
+=======
+done with my work
+it is successful
+
+>>>>>>> monika
